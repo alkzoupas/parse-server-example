@@ -3,6 +3,9 @@
 //   res.success('Hi');
 // });
 
+Parse.initialize('myAppId','pxxhL6AnpGROB4cePcP9tQCZeGIdQhikZSXmyyA0');
+Parse.serverURL = 'http://pinjiiparseserver.herokuapp.com';
+
 // Use Parse.Cloud.define to define as many cloud functions as you want.
 
 // Make sure all installations point to the current user.
